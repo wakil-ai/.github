@@ -1,259 +1,86 @@
-<div align="center">
+<p align="center">
+  <a href="https://wakil.ai">
+    <img src="https://raw.githubusercontent.com/wakil-ai/.github/main/profile/assets/wakilai-logo.png" alt="WakilAI — legal intelligence for Uzbekistan" width="160" height="160">
+  </a>
+</p>
 
-<img src="./assets/wakilai-logo.png" alt="WakilAI shield and scales logo" width="180">
+<h1 align="center">Legal intelligence for Uzbekistan</h1>
 
-# WakilAI
+<p align="center">
+  Research grounded in sources. Documents understood in context.<br>
+  Infrastructure built for organizational control.
+</p>
 
-### Legal intelligence infrastructure for high-stakes legal work
-
-**Source-grounded legal AI · Enterprise APIs · Private deployment · Multilingual intelligence**
-
-[Website](https://wakil.ai) ·
-[Launch WakilAI](https://chat.wakil.ai) ·
-[Contact](mailto:support@wakil.ai)
-
-</div>
+<p align="center">
+  <a href="https://wakil.ai">Explore WakilAI</a> &nbsp;·&nbsp;
+  <a href="https://chat.wakil.ai">Open the platform</a> &nbsp;·&nbsp;
+  <a href="mailto:support@wakil.ai">Enterprise inquiries</a>
+</p>
 
 ---
 
-## Legal AI built for evidence, control, and deployment flexibility
+## Built for the way legal teams work
 
-WakilAI helps legal professionals and organizations research law, analyze
-documents, and build controlled AI-assisted workflows for Uzbekistan's legal
-environment.
+WakilAI brings legal research, document analysis, and enterprise integration into one platform for organizations working with Uzbekistan's legal system.
 
-Our approach combines structured legal data, evidence retrieval, document
-intelligence, and configurable deployment infrastructure. The goal is simple:
-important legal outputs should be grounded in relevant sources and suitable for
-professional review.
+We combine structured legal knowledge with evidence retrieval and AI-assisted analysis to help professionals find relevant law, understand documents, and prepare work for review. Our focus is on making the sources behind an answer clear and keeping legal work within an organization's chosen data and access boundaries.
 
-> Legal AI should do more than generate an answer. It should make the basis of
-> that answer clear.
+Designed for **law firms, enterprise legal and compliance teams, public institutions, and technology partners**.
 
-WakilAI is designed for law firms, enterprises, public institutions, legal-aid
-organizations, and technology partners that need more than a general-purpose AI
-assistant.
+## From research to document review
 
-## Platform capabilities
+| Capability | What it supports |
+| :--- | :--- |
+| **Legal research** | Questions about legislation, regulations, and procedure, with retrieval of relevant articles and provisions. |
+| **Document intelligence** | Contract analysis, document comparison, drafting assistance, and extraction of risks and obligations. |
+| **Matter workspaces** | Documents, conversations, and research organized around a case or matter. |
+| **Private knowledge** | Organization-specific policies, templates, and documents incorporated into legal workflows. |
+| **Enterprise integration** | Legal intelligence connected to internal tools, portals, and applications through APIs and embedded experiences. |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Evidence at the center
 
-### Legal intelligence
+Legal work depends on more than a plausible answer. WakilAI's approach separates finding evidence, evaluating its relevance, and preparing a response with sources that a professional can review.
 
-- Source-grounded legal research
-- Article- and provision-level retrieval
-- Regulatory and procedural analysis
-- Multi-source research workflows
-- Context-aware legal conversations
+- **Preserve legal context.** Keep articles and provisions connected to the legal instruments they belong to.
+- **Retrieve for the question.** Combine semantic search with terminology-sensitive and article-specific retrieval.
+- **Make sources reviewable.** Provide citations and structured outputs to support verification and follow-up work.
 
-</td>
-<td width="50%" valign="top">
+The platform is designed for **Uzbek in Latin and Cyrillic scripts, Russian, and English**, including retrieval across languages. Coverage and performance depend on the source material and workflow.
 
-### Document intelligence
+## Deployment that fits your organization
 
-- Contract and document analysis
-- Drafting assistance
-- Risk, obligation, and clause extraction
-- Document comparison
-- Case-file and uploaded-document analysis
+Organizations have different requirements for hosting, confidentiality, and integration. WakilAI supports engagement-specific deployment planning across three infrastructure models:
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| Deployment | Organizational need |
+| :--- | :--- |
+| **Managed cloud** | A hosted environment with a straightforward path to adoption. |
+| **Private cloud** | Dedicated infrastructure with defined isolation and operational requirements. |
+| **On-premises** | Operation within an organization's own infrastructure and data boundaries. |
 
-### Enterprise platform
+API integrations, embedded assistants, and white-label experiences can be scoped alongside the chosen deployment. Model selection, private knowledge sources, access controls, and operational responsibilities are agreed during implementation.
 
-- Organization workspaces
-- Matter-oriented collaboration
-- Role-aware access
-- Private knowledge bases
-- API and system integrations
+### Data control and governance
 
-</td>
-<td width="50%" valign="top">
+Enterprise planning covers who can access information, where data is stored and processed, how documents are handled, and how activity is monitored. Relevant controls include authentication and authorization, data isolation, administrative access, secret management, and operational logging.
 
-### Controlled deployment
+For a deployment discussion, contact us to review architecture, data flows, security requirements, and available technical documentation. Capabilities and controls depend on the agreed scope and configuration.
 
-- Managed and private-cloud options
-- On-premises deployment
-- Configurable model infrastructure
-- Customer-controlled data boundaries
-- Institution-specific knowledge systems
+## For developers and integration partners
 
-</td>
-</tr>
-</table>
+WakilAI is designed to bring legal intelligence into existing products and services through APIs, internal assistants, and branded experiences.
 
-## Designed for legal precision
+Use this GitHub organization to explore our public engineering work as it becomes available. Access to individual repositories, integration resources, and platform APIs is subject to their respective availability and terms.
 
-General-purpose AI primarily optimizes for fluent language. Legal work also
-requires evidence quality, contextual accuracy, and traceability.
+For API access or technical partnership inquiries, write to [support@wakil.ai](mailto:support@wakil.ai) with your use case, preferred deployment model, and integration requirements.
 
-WakilAI separates retrieval, evidence evaluation, and synthesis so organizations
-can build reviewable workflows around legal information.
+## Professional judgment remains essential
 
-```mermaid
-flowchart LR
-    A[User or enterprise system] --> B[Context and intent]
-    B --> C[Retrieval strategy]
-    C --> D[Legal evidence retrieval]
-    D --> E[Evidence quality checks]
-    E --> F[Grounded synthesis]
-    F --> G[Citations and structured output]
-```
-
-Depending on the task, retrieval can combine semantic, lexical,
-terminology-sensitive, precision-first, and relationship-aware methods.
-
-## Structured legal knowledge
-
-WakilAI is designed to preserve the hierarchy and context of legal material
-rather than treating law as an undifferentiated collection of text.
-
-```text
-Legal instrument
-└── Title
-    └── Chapter or section
-        └── Article or provision
-```
-
-This structure helps connect a provision to its governing instrument and supports
-more precise retrieval across legislation, regulations, court materials,
-contracts, and organization-specific knowledge.
-
-## Specialized workflows
-
-| Area | Example workflows |
-| --- | --- |
-| General law | Legal questions, statutory research, rights, and obligations |
-| Tax and regulatory | Regulatory research, obligations, and interpretation |
-| Court intelligence | Case materials, procedure, and court research |
-| Contracts | Drafting, review, comparison, risk, and obligation analysis |
-| Deep research | Multi-source investigation and structured analysis |
-| Case workspaces | Documents, facts, conversations, and research within a matter |
-
-## Multilingual by design
-
-Uzbekistan's legal environment spans multiple languages and scripts. WakilAI is
-designed to support:
-
-- Uzbek in Latin script
-- Uzbek in Cyrillic script
-- Russian
-- English
-
-Multilingual processing can be applied at the retrieval layer, helping the system
-find relevant evidence across languages instead of translating only the final
-response.
-
-## Enterprise integration
-
-WakilAI can operate as a legal intelligence layer within an organization's
-existing environment.
-
-- REST APIs and server-to-server integrations
-- Web and embedded experiences
-- Internal enterprise tools
-- Institution-specific assistants
-- Private knowledge and document workflows
-- White-label legal AI experiences
-
-Implementations can combine an organization's documents, policies, templates,
-and workflows with WakilAI's legal intelligence capabilities.
-
-## Deployment models
-
-| Model | Best suited for |
-| --- | --- |
-| Managed cloud | Rapid deployment and standard workloads |
-| Private cloud | Dedicated infrastructure and stronger isolation requirements |
-| On-premises | Regulated or sensitive environments with local-control requirements |
-| API or embedded | Existing products, portals, and enterprise systems |
-| White label | Organizations delivering a branded legal AI experience |
-
-Deployment scope and controls are configured for each engagement. Availability
-of individual options depends on technical and operational requirements.
-
-## Security and governance
-
-Legal workloads require disciplined access, data handling, and oversight. WakilAI
-deployments can be designed around controls such as:
-
-- Authentication and role-aware authorization
-- Tenant and data-isolation boundaries
-- Controlled API and administrative access
-- Secure document handling
-- Secret-management practices
-- Operational logging and monitoring
-- Evidence and source traceability
-- Private infrastructure options
-
-Detailed architecture, security, and data-handling documentation can be shared
-with qualified enterprise and institutional partners under appropriate
-confidentiality arrangements.
-
-Security capabilities depend on the agreed deployment and configuration. Public
-materials should not be interpreted as an independent certification or a
-guarantee of suitability for a particular regulatory regime.
-
-## Built for professional workflows
-
-WakilAI is evolving from question answering into a broader environment for legal
-work:
-
-```text
-Ask → understand context → retrieve evidence → evaluate evidence
-    → analyze → generate a grounded output → review → continue within a matter
-```
-
-This supports workflows across legal teams, compliance, tax, procurement,
-finance, human resources, operations, and public-service delivery—subject to the
-organization's policies and professional oversight.
-
-## Responsible legal AI
-
-WakilAI is designed to assist legal work, not replace professional legal
-judgment.
-
-- **Evidence over speculation.** Important outputs should be supported by
-  relevant legal material.
-- **Clarification over guessing.** Material ambiguity should be surfaced instead
-  of silently assumed.
-- **Traceability over black-box confidence.** Users should be able to review the
-  basis of significant outputs.
-- **Human judgment for high-stakes decisions.** Qualified professionals should
-  review consequential legal conclusions and actions.
-
-WakilAI provides legal information and AI-assisted legal intelligence. It does
-not replace licensed legal counsel or judicial decision-making.
-
-## Open source and developer resources
-
-This organization hosts selected WakilAI SDKs, integration examples,
-documentation, and open-source components. Core production infrastructure and
-proprietary legal knowledge systems may remain private.
-
-Public repositories are released where they can contribute to the legal-technology
-and developer ecosystems without compromising customer confidentiality,
-security, personal data, or proprietary systems.
+WakilAI supports legal research and analysis. AI-generated outputs can be incomplete or incorrect; verify cited sources, their applicability, and the current legal position before relying on them. Consequential decisions require review by a qualified legal professional.
 
 ## Work with WakilAI
 
-We work with law firms, enterprises, legal-technology companies, public
-institutions, universities, and technology partners.
+Discuss enterprise deployments, integrations, institutional pilots, or technology partnerships with our team.
 
-For enterprise deployment, API access, integrations, partnerships, or
-institutional pilots:
+**[Contact us →](mailto:support@wakil.ai)**
 
-- [support@wakil.ai](mailto:support@wakil.ai)
-- [wakil.ai](https://wakil.ai)
-- [chat.wakil.ai](https://chat.wakil.ai)
-
-<div align="center">
-
-**Building trusted legal intelligence for Uzbekistan—and the markets that come next.**
-
-</div>
+[wakil.ai](https://wakil.ai) · [chat.wakil.ai](https://chat.wakil.ai) · [support@wakil.ai](mailto:support@wakil.ai)

@@ -7,8 +7,9 @@ The published profile is maintained in [`profile/README.md`](profile/README.md).
 
 ## Brand assets
 
-Approved brand assets are stored in `profile/assets/` and referenced from the
-organization profile with relative paths.
+Approved brand assets are stored in `profile/assets/`. The organization profile
+uses the logo's absolute raw GitHub URL so it can be loaded outside this
+repository's file view. The supplied PNG retains its original white background.
 
 ## Contact
 
