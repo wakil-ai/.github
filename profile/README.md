@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/wakilai-logo.png" alt="WakilAI shield and scales logo" width="180">
+
 # WakilAI
 
 ### Legal intelligence infrastructure for high-stakes legal work

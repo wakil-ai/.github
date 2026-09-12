@@ -7,8 +7,8 @@ The published profile is maintained in [`profile/README.md`](profile/README.md).
 
 ## Brand assets
 
-When an approved transparent logo is available, store it in `profile/assets/` and
-reference it from the organization profile with a relative path.
+Approved brand assets are stored in `profile/assets/` and referenced from the
+organization profile with relative paths.
 
 ## Contact
 
